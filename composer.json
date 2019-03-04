@@ -1,8 +1,8 @@
 {
-  "name": "OnesandZerosTechnology/structured-data",
+  "name": "onesandzeros/structured-data",
   "description": "Structured data module for Silverstripe, provides structured data for better SEO.",
   "homepage": "https://github.com/OnesandZerosTechnology/structured-data.git",
-  "keywords": ["silverstripe", "structured-data", "OnesandZerosTechnology"],
+  "keywords": ["silverstripe", "structured-data", "OnesandZerosTechnology", "onesandzeros"],
   "license": "BSD-3-Clause",
   "authors": [
     {"name": "OnesandZerosTechnology","email": "chloe@onesandzeros.nz"}
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-        "OnesandZerosTechnology\\structured-data\\": "src/"
+        "onesandzeros\\structured-data\\": "src/"
     }
   },
   "extra": {
