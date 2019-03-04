@@ -8,7 +8,7 @@ See the "require" section of [composer.json](https://github.com/OnesandZerosTech
 ## Installation
 
 ```sh
-$ composer require onesandzeros/structured-data
+$ composer require OnesandZerosTechnology/structured-data
 ```
 
 You'll also need to run `dev/build`.
